@@ -7,6 +7,7 @@ console.log("***** main *****");
 const form = document.querySelector("form");
 const input = document.getElementById("coins-input");
 const coinsContainer = document.getElementById("coins-container");
+const resetBtn = document.getElementById("reset-btn");
 
 const BASE_URL = "https://api.coinranking.com/v2/";
 const API_KEY = "coinrankinga9aae188e3b80d3ba69940202e8ba01daf51f9c184a5352f";
@@ -132,3 +133,7 @@ coinsContainer.onclick = function(e){
 
 
 
+resetBtn.onclick = () => {
+  console.log('object');
+  coinsContainer.textContent = "";
+}

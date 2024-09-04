@@ -15,7 +15,7 @@
     <a href="https://github.com/ibrsec/crypto-coin"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://ibrsec.github.io/crypto-coin/">View Demo</a>
+    <a href="https://crypto-coin-pi.vercel.app/">View Demo</a>
     ·
     <a href="https://github.com/ibrsec/crypto-coin/issues">Report Bug</a>
     ·
@@ -60,7 +60,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![crypto-coin](./img/project.gif)](https://ibrsec.github.io/crypto-coin/)
+[![crypto-coin](./img/project.gif)](https://crypto-coin-pi.vercel.app/)
 
 
 
